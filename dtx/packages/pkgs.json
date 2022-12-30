@@ -1,0 +1,17 @@
+[
+ {
+  "path": "/packages/iot/webclient", 
+  "ver": "v2.2.0", 
+  "name": "WEBCLIENT"
+ }, 
+ {
+  "path": "/packages/iot/at_device", 
+  "ver": "latest", 
+  "name": "AT_DEVICE"
+ }, 
+ {
+  "path": "/packages/iot/ota_downloader", 
+  "ver": "latest", 
+  "name": "OTA_DOWNLOADER"
+ }
+]
